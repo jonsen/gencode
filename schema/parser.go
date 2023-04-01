@@ -3,7 +3,7 @@ package schema
 import (
 	"strconv"
 
-	. "github.com/andyleap/parser"
+	. "github.com/jonsen/parser"
 )
 
 func MakeGrammar() *Grammar {
